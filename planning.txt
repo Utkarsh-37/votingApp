@@ -19,7 +19,6 @@ voting app functionality
 9. admin can't vote at all
 
 
-----------------------------------------------------------------
 
 Routes
 
